@@ -9,13 +9,13 @@ Each lab has its own folder containing the assignment description in `README.md`
 ---
 The following repositories are from my colleagues from the course, collected here for easier access and review:
 
-- Belenchi Iulian
+- [Belenchi Iulian](https://github.com/Fl0y/system_design_labs)
 - [Borș Alexandru](https://github.com/Aziyck/Proiectarea-sistemelor-informatice)
 - [Cristea Alexandru](https://github.com/AlexiosChristus/CristeaAlexandru-iNFA241-Laboratoare)
 - Didilica Daniela
 - [Duca Alexandr](https://github.com/DucaAleXD/Proiectarea-sistemelor-informatice)
 - Guranda Vadim
-- Gurău Maxim
+- [Gurău Maxim](https://github.com/Mahim0606/Proiectarea-sistemelor-informatice)
 - [Mancoș Alexandru](https://github.com/AlexandruMn/system-design-labs)
 - Marjina Lilian
 - Oprea Alexandru
