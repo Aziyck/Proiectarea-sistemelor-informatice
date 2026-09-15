@@ -19,7 +19,7 @@ The following repositories are from my colleagues from the course, collected her
 - [Mancoș Alexandru](https://github.com/AlexandruMn/system-design-labs)
 - Marjina Lilian
 - Oprea Alexandru
-- [Plămădeală Traian Alexandru](github.com/Plankjak/system-design-labs)
+- [Plămădeală Traian Alexandru](https://github.com/Plankjak/system-design-labs)
 - [Reul Alexei](https://github.com/ReulAlex/-Proiectarea-sistemelor-informatice)
 - [Sainciuc Beatrice](https://github.com/sainciucbeatricie/psi-labs)
 - Verejan Mihai
