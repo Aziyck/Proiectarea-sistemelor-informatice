@@ -22,5 +22,5 @@ The following repositories are from my colleagues from the course, collected her
 - [Plămădeală Traian Alexandru](https://github.com/Plankjak/system-design-labs)
 - [Reul Alexei](https://github.com/ReulAlex/-Proiectarea-sistemelor-informatice)
 - [Sainciuc Beatrice](https://github.com/sainciucbeatricie/psi-labs)
-- Verejan Mihai
+- [Verejan Mihai](https://github.com/Flux2jz/SysDL_MV)
 
