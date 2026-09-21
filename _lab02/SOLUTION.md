@@ -1,4 +1,4 @@
-# Lab 2: Quantify the Dashboard Reads — Working Draft
+# Lab 2: Quantify the Dashboard Reads
 
 > Working order: Sections 2 → 3 → 1 → 4 → 5. The quality requirements in Section 1 need the RPS numbers as their operating condition, so the workload is calculated first.
 
